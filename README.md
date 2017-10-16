@@ -1,8 +1,8 @@
-﻿# EIL_player_ios
+﻿# epsIosPlayer
 
-EIL易居互动直播云平台播放ios SDK使用说明
+epsIosPlayer SDK使用说明
 
-EIL_nativeplayer_ios SDK是ios 平台上使用的软件开发工具包(SDK), 负责播放视频直播和点播内容。
+epsIosPlayer SDK是ios 平台上使用的软件开发工具包(SDK), 负责播放视频直播和点播内容。
 
 一. 功能特点
 
